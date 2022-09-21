@@ -1,0 +1,10 @@
+PT1-Blaster-Toys-3
+PT2-Figure-Toys-4
+PT3-Dart-Toys-2
+PF4-Apple-Fruit-3
+PF5-Orange-Fruit-3
+PM6-Veal-Meat-9
+PM7-Beef-Meat-8
+PE8-Mouse-Electronic-25
+PE9-Laptop-Electronic-400
+PM10-Fish-Meat-14
